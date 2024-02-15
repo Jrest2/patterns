@@ -1,7 +1,7 @@
 enum Car {
   HONDA,
   MAZDA,
-};
+}
 
 
 abstract class CarPart {
